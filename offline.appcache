@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1645177275
+#1645180425
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -16,6 +16,7 @@ images/gui_movement-sheet2.png
 images/gui_action-sheet0.png
 images/gui_shoot-sheet0.png
 images/gui_cweapon-sheet0.png
+images/gui_backpack-sheet0.png
 images/gui_ammo-sheet0.png
 images/gui_ammo-sheet1.png
 images/gui_react-sheet0.png

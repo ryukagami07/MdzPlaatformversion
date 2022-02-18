@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1645177275,
+	"version": 1645180425,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,7 @@
 		"images/gui_action-sheet0.png",
 		"images/gui_shoot-sheet0.png",
 		"images/gui_cweapon-sheet0.png",
+		"images/gui_backpack-sheet0.png",
 		"images/gui_ammo-sheet0.png",
 		"images/gui_ammo-sheet1.png",
 		"images/gui_react-sheet0.png",
